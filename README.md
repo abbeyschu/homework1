@@ -11,7 +11,7 @@ Visit this link to view the application: https://abbeyschu.github.io/homework1_A
 
 ## Screenshot of Webpage
 
-![Image of Webpage](https://github.com/abbeyschu/homework1_AS/raw/main/HoriseonScreenshot.png)
+![Image of Webpage](assets/images/HoriseonScreenshot.png)
 
 
 ## License 
