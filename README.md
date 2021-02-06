@@ -5,10 +5,15 @@ The primary goal was to make the existing Horiseon Marketing site more accessibl
 
 The most important step of this project was including semantic html elements. This clearly shows the meaning of each element to developers, but also is crucial for screen reader programs. These semantic elements must follow a logical structure. Other aspects important for screen readers were also added, including alt attributes for all images and a descriptive title for the browser tab. 
 
-Deployed Application Link: https://abbeyschu.github.io/homework1_AS/
+## Installation
 
-The previous css file did not allow for elements to be responsive to screen/window size. Comments in the css file list specific changes, but they include:
-    - flexbox was utilized for the Header, including the navigation menu
-    - media queries were added to adjust sections on smaller screen sizes
+Visit this link to view the application: https://abbeyschu.github.io/homework1_AS
 
-![Image of Webpage](https://abbeyschu.github.com/images/HoriseonScreenshot.png)
+## Screenshot of Webpage
+
+![Image of Webpage](https://github.com/abbeyschu/homework1_AS/raw/main/HoriseonScreenshot.png)
+
+
+## License 
+
+[MIT](https://github.com/abbeyschu/homework1_AS/raw/main/license.txt)
